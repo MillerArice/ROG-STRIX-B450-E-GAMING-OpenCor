@@ -1,0 +1,1 @@
+# ROG-STRIX-B450-E-GAMING-OpenCor
