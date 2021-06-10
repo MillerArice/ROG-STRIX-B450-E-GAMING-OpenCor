@@ -1,6 +1,8 @@
 # ROG-STRIX-B450-E-GAMING-OpenCore
 <br>
 
+### Languages: English (current), [Ukrainian](languages/README_UA.md), [Russian](languages/README_RUS.md), [Traditional Chinese](languages/README_CHT.md), [Spanish](languages/README_ES.md), [Simplified Chinese](languages/README_CHS.md), [Vietnamese](languages/README_VI.md)
+
 ## EFI简介
 此 EFI 使用`Mac Pro7,1`机型，华硕 B450-E 主板的用户可通过修改使用，默认启用全部 USB 端口，[`OpenCore`](https://github.com/acidanthera/OpenCorePkg)  版本：0.6.9，会一直更新新版本，可能不会很及时的更新，使用此配置文件需要关闭USB定制的kext驱动并使用自己的SMbios. <br>
 
