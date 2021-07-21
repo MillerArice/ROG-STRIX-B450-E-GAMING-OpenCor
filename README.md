@@ -2,10 +2,10 @@
 <br>
 
 ## EFI简介
-此 EFI 使用`Mac Pro7,1`机型，华硕 B450-E 主板的用户可通过修改使用，默认启用全部 USB 端口，[`OpenCore`](https://github.com/acidanthera/OpenCorePkg)  版本：0.6.9，会一直更新新版本，可能不会很及时的更新，使用此配置文件需要关闭USB定制的kext驱动并使用自己的SMbios. <br>
+此 EFI 使用`Mac Pro7,1`机型，华硕 B450-E 主板的用户可通过修改使用，默认启用全部 USB 端口，[`OpenCore`](https://github.com/acidanthera/OpenCorePkg)  会一直更新版本，可能不会很及时的更新，使用此配置文件需要关闭USB定制的kext驱动并且使用自己的SMbios. <br>
 
 ### 可正常工作：
-- [x] 声卡（板载）/ 网卡（板载）（板载麦克风接口暂时尚未解决）
+- [x] 声卡（板载）/ 网卡（板载）（板载麦克风接口暂时可以使用VoodooHDA.kext<万能声卡>解决）
 - [x] 显卡 / 硬解 4K（HEVC + H.264）
 - [x] WiFi（PCI-E 设备） / 蓝牙（PEI-E 载 USB 设备）（BCM94360CS2）
 - [x] 隔空投送 / 接力 
