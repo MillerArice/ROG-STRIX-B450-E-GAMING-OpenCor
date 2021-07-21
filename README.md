@@ -18,6 +18,12 @@
 
 ## 更新记录
 
+#### 2021年07月21日
+* 更新OpenCore 0.7.1版本；
+* 更新所有Kext至最新版本；
+* 默认使用VoodooHDA.kext(万能声卡)，为了使用板载麦克风接口；
+* 更新AMD内核至最新，使得其可以运行macOS 12 Monterey Beta1，目前只能运行在macOS 12 Monterey Beta1 及更早版本的系统上。
+
 #### 2021年06月04日
 * 更新OpenCore 0.6.9版本，
 * 更新了使用到的所有Kext文件
