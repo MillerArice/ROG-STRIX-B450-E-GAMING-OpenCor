@@ -75,7 +75,7 @@
 
 ## 进阶功能
 
-#### [`修复Adobe全家桶`](https://gist.github.com/naveenkrdy/26760ac5135deed6d0bb8902f6ceb6bd)
+#### [`修复Adobe全家桶`](https://github.com/jericane1/Adobe-AMD-Fix)
 * 修复过后大部分功能都能正常使用
 
 #### 更改 关于本机 里错误显示的处理器名称
