@@ -87,7 +87,7 @@
 
 #### Intel网卡
 * EFI/OC/Kexts中加入 下面的驱动文件，并在OC中启用
-  * [`Intel-Wi-Fi`](http://bbs.pcbeta.com/viewthread-1848662-1-1.html)（AirportItlwm_0916_Catalina/BigSur.kext)
+  * [`Intel-Wi-Fi`](https://github.com/OpenIntelWireless/itlwm/releases)（AirportItlwm_0916_Catalina/BigSur.kext)
   * [`Intel-蓝牙`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)（IntelBluetoothFirmware.kext、IntelBluetoothInjector.kext）
 
 #### 机型三码
