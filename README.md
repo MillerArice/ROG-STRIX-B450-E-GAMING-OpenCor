@@ -18,6 +18,15 @@
 
 ## 更新记录
 
+#### 2022年10月22日
+* 更新OpenCore 0.8.4版本；
+* 更新所有Kext至最新版本；
+* 更换独立显卡为6600XT，加入引导项：agdpmod=pikera（解决6000系显卡启动黑屏）
+* 默认声卡ID：07000000
+* 更换网卡驱动为：AppleIGB.kext
+* 更新AMD内核至最新
+* 添加UEFI驱动：ResetNvramEntry.efi
+
 #### 2021年07月21日
 * 更新OpenCore 0.7.1版本；
 * 更新所有Kext至最新版本；
